@@ -15,6 +15,12 @@
          "id":3,
          "name":"exit_map",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/xn--kirche-rdemis-pmb.de\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
