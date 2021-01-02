@@ -61,7 +61,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/jklippel\/ash-roedemis\/gh-pages\/index.html"
+                 "value":"https:\/\/github.com\/jklippel\/ash-roedemis\/wiki"
                 }],
          "type":"tilelayer",
          "visible":true,
