@@ -85,7 +85,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/ash.joernschaar.de\/candlepool.html"
+                 "value":"https:\/\/ash.joernschaar.de\/candlepool.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -103,7 +103,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/ash.joernschaar.de\/lectern.html"
+                 "value":"https:\/\/ash.joernschaar.de\/lectern.html"
                 }],
          "type":"tilelayer",
          "visible":true,
