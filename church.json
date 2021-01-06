@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/ash-roedemis\/room1.json"
+                 "value":"\/ash-roedemis\/gh-pages\/room1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
