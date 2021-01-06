@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/ash-roedemis\/gh-pages\/church.json"
+                 "value":"\/jklippel\/ash-roedemis\/gh-pages\/church.json"
                 }],
          "type":"tilelayer",
          "visible":true,
