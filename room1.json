@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/schaarserella\/ash-roedemis\/gh-pages\/church.json"
+                 "value":"\/schaarserella\/ash-roedemis\/gh-pages\/church.json#exit_room1"
                 }],
          "type":"tilelayer",
          "visible":true,
