@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/schaarserella\/ash-roedemis\/gh-pages\/room1.json"
+                 "value":"room1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
